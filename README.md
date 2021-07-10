@@ -1,4 +1,4 @@
-# Creaative_Agency
+# Creative_Agency
 
 A simple plain HTML-CSS website static for a Create Agency
 
